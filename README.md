@@ -149,11 +149,11 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
     <summary>
-      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Workshop] Ignite Lab Node.js 2022</a> (0%)
+      <a href="https://github.com/amaralc/2022-course-rocketseat-ignite-lab-nodejs">[Workshop] Ignite Lab Node.js 2022</a> (33,33%)
     </summary>
     <ul>
       <li>
-        Started: 
+        Started: 28/04/2023
       </li>
       <li>
         Finished: 
