@@ -176,9 +176,23 @@ This is a simple document that aims to list and index evidences of personal deve
     </ul>
     </details>
   </li>
+  <li>
+    <details> 
+    <summary>
+      <a href="https://alistair.cockburn.us/hexagonal-architecture/">[Article] Hexagonal architecture</a> (100%)
+    </summary>
+     <ul>
+      <li>
+        Started: 08/05/2023
+      </li>
+       <li>
+        Finished: 11/05/2023
+      </li>
+    </ul>
+    </details>
+  </li>
 
 </ul>
 </br>
-
 
 <hr/>
