@@ -194,7 +194,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <li>
     <details> 
     <summary>
-      <a href="https://www.cosmicpython.com/book/chapter_02_repository.html">[Article] Repository Pattern</a> (0%)
+      <a href="https://www.cosmicpython.com/book/chapter_02_repository.html">[Article] Repository Pattern</a> (25%)
     </summary>
      <ul>
       <li>
