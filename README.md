@@ -206,6 +206,19 @@ This is a simple document that aims to list and index evidences of personal deve
     </ul>
     </details>
   </li>
+   </li>
+    <li>
+    <details> 
+    <summary>
+      <a href="https://martinfowler.com/articles/break-monolith-into-microservices.html">[Article] Break Monolith Into Microservices</a> (0%)
+    </summary>
+     <ul>
+      <li>
+        Started: 24/05/2023
+       </li>
+    </ul>
+    </details>
+  </li>
 
 </ul>
 </br>
