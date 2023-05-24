@@ -191,6 +191,21 @@ This is a simple document that aims to list and index evidences of personal deve
     </ul>
     </details>
   </li>
+    <li>
+    <details> 
+    <summary>
+      <a href="https://www.cosmicpython.com/book/chapter_02_repository.html">[Article] Repository Pattern</a> (100%)
+    </summary>
+     <ul>
+      <li>
+        Started: 12/05/2023
+      </li>
+      <li>
+        Finished: 22/05/2023
+      </li>
+    </ul>
+    </details>
+  </li>
 
 </ul>
 </br>
