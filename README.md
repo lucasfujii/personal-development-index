@@ -246,21 +246,6 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://hasura.io/learn/">[Tutorial] FullStack GraphQL Tutorials</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
 <li>
     <details> 
       <summary>
