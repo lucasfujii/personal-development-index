@@ -9,7 +9,127 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/architect-an-extensible-digital-garden-with-next-js-tailwind-and-nx-53f7628f">[Course] Architect an Extensible Digital Garden with Next.js, Tailwind, and Nx</a> (0%)
+        <a href="https://martinfowler.com/bliki/CQRS.html">[Article] CQRS: Command Query Responsibility Segregation </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+ <li>
+    <details> 
+      <summary>
+        <a href="https://microservices.io/patterns/data/cqrs.html">[Article] Pattern: Command Query Responsibility Segregation (CQRS) </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+ <li>
+    <details> 
+      <summary>
+        <a href="https://www.cosmicpython.com/book/chapter_12_cqrs.html">[Article] OPTIONAL 12: Command-Query Responsibility Segregation (CQRS) </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+ <li>
+    <details> 
+      <summary>
+        <a href="https://betterprogramming.pub/cqrs-software-architecture-pattern-the-good-the-bad-and-the-ugly-e9d6e7a34daf">[Article] CQRS Software Architecture Pattern: The Good, the Bad, and the Ugly </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+ <li>
+    <details> 
+      <summary>
+        <a href="https://docs.nestjs.com/recipes/cqrs">[Tutorial] CQRS Tutotial For NestJs </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+ <li>
+    <details> 
+      <summary>
+        <a href="https://www.amazon.com.br/Monolith-Microservices-Sam-Newman/dp/1492047848">[Book] Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+   <li>
+    <details> 
+      <summary>
+        <a href="https://www.amazon.com/Staff-Engineers-Path-Individual-Contributors/dp/1098118731">[Book] The Staff Engineer's Path: A Guide for Individual Contributors Navigating Growth and Change </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+   <li>
+    <details> 
+      <summary>
+        <a href="https://github.com/amaralc/career-and-team-roles#software-engineering-career-levels">[Article] Career and Team Roles </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>	
+  <li>
+    <details> 
+      <summary>
+        <a>[API] Notes API </a> (0%)
       </summary>
       <ul>
         <li>
@@ -24,7 +144,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://egghead.io/courses/scale-react-development-with-nx-4038">[Course] Scale React Development with Nx</a> (0%)
+        <a>[API] implement the repository pattern in the Notes Api </a> (0%)
       </summary>
       <ul>
         <li>
@@ -39,7 +159,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Tutorial] Beginners TypeScript</a> (0%)
+        <a href="https://www.kai-waehner.de/blog/2022/05/30/error-handling-via-dead-letter-queue-in-apache-kafka/">[Article] Error Handling via Dead Letter Queue in Apache Kafka</a> (0%)
       </summary>
       <ul>
         <li>
@@ -54,7 +174,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="https://www.totaltypescript.com/tutorials/zod">[Tutorial] Zod</a> (0%)
+        <a href="https://www.uber.com/en-us/blog/reliable-reprocessing/">[Article] Building Reliable Reprocessing and Dead Letter Queues with Apache Kafka</a> (0%)
       </summary>
       <ul>
         <li>
@@ -66,14 +186,14 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
-  <li>
+ <li>
     <details> 
       <summary>
-        <a href="https://www.totaltypescript.com/workshops/type-transformations">[Workshop] Type Transformations</a> (0%)
+        <a href="https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246">[Book] Refactoring: Improving the Design of Existing Code </a> (20%)
       </summary>
       <ul>
         <li>
-          Started: 
+          Started: 05/06/2023
         </li>
         <li>
           Finished:
@@ -81,6 +201,21 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+    <li>
+      <details> 
+        <summary>
+          <a href="https://www.totaltypescript.com/tutorials/beginners-typescript">[Tutorial] Beginners TypeScript</a> (0%)
+        </summary>
+        <ul>
+          <li>
+            Started: 
+          </li>
+          <li>
+            Finished:
+          </li>
+        </ul>
+        </details>
+    </li>
   <li>
     <details> 
       <summary>
@@ -110,36 +245,6 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
       </details>
-  </li>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://www.amazon.com.br/Peopleware-Productive-Projects-Tom-DeMarco/dp/0321934113">[Book] Peopleware: Productive Projects and Teams</a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
-  <li>
-    <details> 
-    <summary>
-      <a href="https://github.com/amaralc/learn-threejs-using-react">[Course] Learn ThreeJS using React</a> (0%)
-    </summary>
-    <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-    </details>
   </li>
 </ul>
 </br>
@@ -203,6 +308,19 @@ This is a simple document that aims to list and index evidences of personal deve
       <li>
         Finished: 22/05/2023
       </li>
+    </ul>
+    </details>
+  </li>
+   </li>
+    <li>
+    <details> 
+    <summary>
+      <a href="https://martinfowler.com/articles/break-monolith-into-microservices.html">[Article] Break Monolith Into Microservices</a> (40%)
+    </summary>
+     <ul>
+      <li>
+        Started: 29/05/2023
+       </li>
     </ul>
     </details>
   </li>
