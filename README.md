@@ -246,6 +246,51 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="https://hasura.io/learn/">[Tutorial] FullStack GraphQL Tutorials</a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+<li>
+    <details> 
+      <summary>
+        <a href="https://www.amazon.com.br/Extreme-Programming-Explained-Embrace-Change/dp/0321278658">[Book] Extreme Programming Explained: Embrace Change </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
+<li>
+    <details> 
+      <summary>
+        <a href="https://dokumen.pub/extreme-programming-pocket-guide-team-based-software-development-1nbsped-0596004850.html">[Book] OPTIONAL Extreme Programming Pocket Guide: Team-Based Software Development </a> (0%)
+      </summary>
+      <ul>
+        <li>
+          Started: 
+        </li>
+        <li>
+          Finished:
+        </li>
+      </ul>
+      </details>
+  </li>
 </ul>
 </br>
 
