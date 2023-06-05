@@ -39,7 +39,7 @@ This is a simple document that aims to list and index evidences of personal deve
  <li>
     <details> 
       <summary>
-        <a href="  https://www.cosmicpython.com/book/chapter_12_cqrs.html">[Article] OPTIONAL 12: Command-Query Responsibility Segregation (CQRS) </a> (0%)
+        <a href="https://www.cosmicpython.com/book/chapter_12_cqrs.html">[Article] OPTIONAL 12: Command-Query Responsibility Segregation (CQRS) </a> (0%)
       </summary>
       <ul>
         <li>
@@ -129,7 +129,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="">[API] Notes API </a> (0%)
+        <a>[API] Notes API </a> (0%)
       </summary>
       <ul>
         <li>
@@ -144,7 +144,7 @@ This is a simple document that aims to list and index evidences of personal deve
   <li>
     <details> 
       <summary>
-        <a href="">[API] implement the repository pattern in the Notes Api </a> (0%)
+        <a>[API] implement the repository pattern in the Notes Api </a> (0%)
       </summary>
       <ul>
         <li>
