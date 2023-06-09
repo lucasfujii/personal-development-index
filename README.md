@@ -189,7 +189,7 @@ This is a simple document that aims to list and index evidences of personal deve
  <li>
     <details> 
       <summary>
-        <a href="https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246">[Book] Refactoring: Improving the Design of Existing Code </a> (20%)
+        <a href="https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246">[Book] Refactoring: Improving the Design of Existing Code </a> (30%)
       </summary>
       <ul>
         <li>
