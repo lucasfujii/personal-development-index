@@ -345,7 +345,7 @@ This is a simple document that aims to list and index evidences of personal deve
     <li>
     <details> 
     <summary>
-      <a href="https://martinfowler.com/articles/break-monolith-into-microservices.html">[Article] Break Monolith Into Microservices</a> (60%)
+      <a href="https://martinfowler.com/articles/break-monolith-into-microservices.html">[Article] Break Monolith Into Microservices</a> (80%)
     </summary>
      <ul>
       <li>
