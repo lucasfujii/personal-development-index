@@ -345,12 +345,15 @@ This is a simple document that aims to list and index evidences of personal deve
     <li>
     <details> 
     <summary>
-      <a href="https://martinfowler.com/articles/break-monolith-into-microservices.html">[Article] Break Monolith Into Microservices</a> (80%)
+      <a href="https://martinfowler.com/articles/break-monolith-into-microservices.html">[Article] Break Monolith Into Microservices</a> (100%)
     </summary>
      <ul>
       <li>
         Started: 29/05/2023
        </li>
+       <li>
+        Finished: 20/06/2023
+      </li>
     </ul>
     </details>
   </li>
