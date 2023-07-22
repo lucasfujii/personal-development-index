@@ -357,6 +357,22 @@ This is a simple document that aims to list and index evidences of personal deve
       </ul>
       </details>
   </li>
+
+  <li>
+    <details> 
+      <summary>
+        <a href="">[Course] Full Cycle 3.0 - Introdução a Arquitetura Hexagonal (7 aulas) </a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 18/07/2023
+        </li>
+        <li>
+          Finished: 22/07/2023
+        </li>
+      </ul>
+      </details>
+  </li>
 </ul>
 </br>
 <hr/>
