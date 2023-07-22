@@ -356,8 +356,7 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
       </ul>
       </details>
-  </li>
-
+ </li>
   <li>
     <details> 
       <summary>
@@ -366,6 +365,21 @@ This is a simple document that aims to list and index evidences of personal deve
       <ul>
         <li>
           Started: 18/07/2023
+        </li>
+        <li>
+          Finished: 22/07/2023
+        </li>
+      </ul>
+      </details>
+  </li>
+  <li>
+    <details> 
+      <summary>
+        <a href="">[Course] Full Cycle 3.0 - Clean Architecture (11 aulas) </a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 22/07/2023
         </li>
         <li>
           Finished: 22/07/2023
