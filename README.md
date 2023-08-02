@@ -6,21 +6,6 @@ This is a simple document that aims to list and index evidences of personal deve
 
 <h1>Backlog</h1>
 <ul>
-  <li>
-    <details> 
-      <summary>
-        <a href="https://martinfowler.com/bliki/CQRS.html">[Article] CQRS: Command Query Responsibility Segregation </a> (0%)
-      </summary>
-      <ul>
-        <li>
-          Started: 
-        </li>
-        <li>
-          Finished:
-        </li>
-      </ul>
-      </details>
-  </li>
  <li>
     <details> 
       <summary>
@@ -383,6 +368,21 @@ This is a simple document that aims to list and index evidences of personal deve
         </li>
         <li>
           Finished: 22/07/2023
+        </li>
+      </ul>
+      </details>
+  </li>
+   <li>
+    <details> 
+      <summary>
+        <a href="https://martinfowler.com/bliki/CQRS.html">[Article] CQRS: Command Query Responsibility Segregation </a> (100%)
+      </summary>
+      <ul>
+        <li>
+          Started: 01/08/2023
+        </li>
+        <li>
+          Finished: 01/08/2023
         </li>
       </ul>
       </details>
